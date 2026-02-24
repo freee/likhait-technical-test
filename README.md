@@ -1,7 +1,6 @@
 > [!IMPORTANT]
 > **This repository was created for LiKHA-IT's technical test and does not guarantee functionality.**
 
-
 # Technical Assessment
 
 ## Overview
@@ -10,8 +9,8 @@ Welcome to the technical assessment phase of our recruitment process. This take-
 
 ## 1. Timeline and Communication
 
-- **Duration**: You have 7 calendar days to complete this assessment, starting from the time this email was received.
-- **Support**: If you have any questions regarding the requirements or encounter issues with the repository, please reply directly to this email thread.
+- **Duration**: You have 7 calendar days to complete this assessment, starting from the time the invitation email was received.
+- **Support**: If you have any questions regarding the requirements or encounter issues with the repository, please reply directly to this email (careers@likhait.com).
 
 ## 2. Environment Setup
 
@@ -44,7 +43,7 @@ We will review your submission based on the following:
 
 ## 6. Submission Instructions
 
-Once you have completed the assessment, please reply to this email with the direct links to your Pull Requests using the format below:
+Once you have completed the assessment, please reply to this email (careers@likhait.com) with the direct links to your Pull Requests using the format below:
 
 ```
 TASK 1: [Link to Feature PR]
@@ -72,7 +71,6 @@ A full-stack expense tracking application with calendar-based visualization for 
 - [Contributing](#contributing)
 - [Technical Assessment](#technical-assessment)
 
-
 ## Overview
 
 The Expense System is a modern web application designed to help users track and visualize their expenses through an intuitive calendar interface. Built with a React frontend and Rails API backend, it provides a seamless experience for recording daily expenses, categorizing spending, and understanding financial patterns.
@@ -95,7 +93,6 @@ The application provides instant feedback when creating, updating, or deleting e
 
 Clean separation between frontend and backend enables scalability and maintainability.
 
-
 ## Technology Stack
 
 ### Frontend
@@ -115,7 +112,6 @@ Clean separation between frontend and backend enables scalability and maintainab
 - **Docker Compose** for containerized development and deployment
 - **Puma** web server for handling concurrent requests
 - **CORS** configured for frontend-backend communication
-
 
 ## Quick Start
 
@@ -193,7 +189,6 @@ RAILS_ENV=production
 SECRET_KEY_BASE=$(rails secret)
 ```
 
-
 ## Contributing
 
 1. Follow Rails and React best practices
@@ -203,4 +198,5 @@ SECRET_KEY_BASE=$(rails secret)
    - Backend: `bundle exec rubocop`
 
 ---
+
 **Built with Ruby on Rails + React + TypeScript**

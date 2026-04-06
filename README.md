@@ -9,8 +9,8 @@ Welcome to the technical assessment phase of our recruitment process. This take-
 
 ## 1. Timeline and Communication
 
-- **Duration**: You have 7 calendar days to complete this assessment, starting from the time the invitation email was received.
-- **Support**: If you have any questions regarding the requirements or encounter issues with the repository, please reply directly to this email (careers@likhait.com).
+- **Duration**: You have 3 calendar days to complete this assessment, starting from the time the invitation email was received.
+- **Support**: We do not provide technical support.
 
 ## 2. Environment Setup
 
@@ -43,13 +43,16 @@ We will review your submission based on the following:
 
 ## 6. Submission Instructions
 
-Once you have completed the assessment, please reply to this email (careers@likhait.com) with the direct links to your Pull Requests using the format below:
+Once you have completed the assessment, please reply to the invitation email with the direct links to your Pull Requests using the format below:
 
 ```
 TASK 1: [Link to Feature PR]
 TASK 2: [Link to Bug Fix PR]
 BONUS/CRITIQUE: [Link to Optional/Refactoring PR]
+** add any other PRs as needed **
 ```
+
+NOTE: Please don't embed the PR url with the PR title. The following will suffice: `PR Title: https://github.com/{your-github-id}/likhait-technical-test/pull/{pull-request-number}`
 
 Good luck, and we look forward to reviewing your code.
 
